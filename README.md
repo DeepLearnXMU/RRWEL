@@ -36,7 +36,7 @@ Cite:
 Please cite our IJCAI 2019 paper:
 
     @article{xue2018,  
-     title={Chinese NER Using Lattice LSTM},  
+     title={Neural Collective Entity Linking Based on Recurrent Random Walk Network Learning },  
      author={Mengge Xue, Weiming Cai, Jinsong Su and Linfeng Song, Yubin Ge, Yubao Liu, Bin Wang},  
      booktitle={The Program Committee of the 28th International Joint Conference on Artificial Intelligence (IJCAI-19)},
      year={2019}  
